@@ -8,7 +8,7 @@
 
 # Welcome to Mask API
 
-We get it—building APIs can be tough. But it doesn’t have to be.
+We get it—integrating with APIs can be tough. But it doesn’t have to be.
 <br><br>
 Mask API is the solution every developer needs for painless API creation. 
 Automatically generate structured API endpoints from real responses, with flexibility and precision. It’s faster, smarter, and just maybe, exactly what you’ve been looking for. 😉
