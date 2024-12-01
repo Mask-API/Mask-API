@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="assets/github-repo-logo.png" alt="maskapi.dev logo" height="80">
+<img src="assets/github-repo-logo.webp" alt="maskapi.dev logo" height="80">
 
 <br>
 
