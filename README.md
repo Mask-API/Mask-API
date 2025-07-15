@@ -1,22 +1,33 @@
-<a name="readme-top"></a>
+# Welcome To MaskAPI
 
-<div align="center">
+<a href="https://maskapi.dev" target="_blank">
+  <img width="1897" height="903" alt="MaskAPI Studio" src="https://github.com/user-attachments/assets/b2004def-6c57-4bb2-86a4-80d9e65ed520" />
+<a/>
 
-<img src="assets/github-repo-logo.webp" alt="maskapi.dev logo" height="80">
+<a href="https://maskapi.dev" alt="Mask API Website"><strong>👀 Give it a visit → </strong></a>
+
+---
+
+
+## ⭐ About MaskAPI
+
+You can think of it as a AI-powered API IDE in the cloud, empowering you to create, test, and deploy APIs in the cloud in no time with no backend experience required.
+
+You can get your from any data source, such as, mock data, database, or third-party APIs. 
+
+Say goodbye to writing boilerplate code and configuring servers.
+
+Ship faster, smarter, and without limits.
 
 <br>
 
-# Welcome to Mask API
-
-We get it—integrating with APIs can be tough. But it doesn’t have to be.
-<br><br>
-Mask API is the solution every developer needs for painless API integration. 
-Automatically generate structured API endpoints from real responses, with flexibility and precision. It’s faster, smarter, and just maybe, exactly what you’ve been looking for. 😉
-
+> \[!IMPORTANT]
+>
+> Star us to show your support and love for Mask API ⭐️
 
 <br/>
 
-**Help more developers suffer less by sharing Mask API**
+## Help more developers suffer less by sharing Mask API
 
 [![][share-x-shield]][share-x-link]
 [![][share-telegram-shield]][share-telegram-link]
@@ -24,23 +35,14 @@ Automatically generate structured API endpoints from real responses, with flexib
 [![][share-reddit-shield]][share-reddit-link]
 [![][share-linkedin-shield]][share-linkedin-link]
 
+<br>
 
-<img src="assets/github repo banner with browser.png" alt="maskapi.dev cover image" width="100%">
-</br>
 
-<a href="https://maskapi.dev" alt="Mask API Website"><strong>👀 Give it a visit → </strong></a>
+## 📬 Contact us:
 
-</div>
+- [Email](mailto:info@maskapi.dev)
 
-## 💛 About Mask API
 
-> Mask API is a developer’s secret weapon for creating clean, structured APIs effortlessly ⚙️
-
-Instead of wrestling with complex API definitions or tedious manual setups, Mask API lets you transform existing API responses into well-structured endpoints in a snap. Perfect for both modern and legacy systems, it gives you full control over your API schemas without the hassle. Whether you’re building something new or refining an old system, MaskAPI is here to make your workflow faster and smoother.
-
-> \[!IMPORTANT]
->
-> Star us to show your support and love for Mask API ⭐️
 
 
 <!-- SHARE BUTTONS GROUP -->
